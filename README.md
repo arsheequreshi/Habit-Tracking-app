@@ -1,6 +1,4 @@
-# Habit-Tracking-app
-An app that keeps track of the user's habits
-
+# Responsive Habit Tracker App Using React and Tailwind CSS
 ### Deployed URL https://pc-habit-tracker.netlify.app/
 
 ### Available Scripts
